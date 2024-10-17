@@ -1,7 +1,7 @@
 SET GLOBAL sql_mode = 'ONLY_FULL_GROUP_BY';
 USE airtraffic;
 
--- SQL Project: AirTraffic Analysis --
+-- SQL Project: US AirTraffic Analysis --
 
 /*
 The managers of a Mutual Fund want to know 
